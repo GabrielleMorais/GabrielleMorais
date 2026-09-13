@@ -1,6 +1,6 @@
 <!-- Perfil: GabrielleMorais. Envie também a pasta assets deste pacote. -->
 <p align="center">
-  <img src="./assets/boot.svg" width="100%" alt="Gabrielle Morais — inicializando um novo capítulo em tecnologia" />
+  <img src="./boot.svg" width="100%" alt="Gabrielle Morais — inicializando um novo capítulo em tecnologia" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3200&amp;pause=1100&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=Transformando+curiosidade+em+projetos.;Aprendendo+Python+e+explorando+IA.;Construindo+meu+proximo+capitulo." alt="Transformando curiosidade em projetos. Aprendendo Python e explorando IA." />
