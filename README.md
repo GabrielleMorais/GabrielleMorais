@@ -53,7 +53,7 @@ Uso IA como apoio para explorar ideias, estudar e desenvolver — com atenção 
 ## Projetos
 
 <a href="https://routeasy.lovable.app">
-  <img src="./assets/routeasy.svg" width="100%" alt="Routeasy: projeto de planejamento de passeios e organização de roteiros. Abrir aplicativo." />
+  <img src="./assets/routeasy.svg""" width="100%" alt="Routeasy: projeto de planejamento de passeios e organização de roteiros. Abrir aplicativo." />
 </a>
 
 **Routeasy** — Exploro planejamento de roteiros, preferências do usuário e sugestões de lugares. Um projeto em evolução para praticar construção de produto, interface e integrações.
@@ -61,7 +61,7 @@ Uso IA como apoio para explorar ideias, estudar e desenvolver — com atenção 
 [Abrir projeto ↗](https://routeasy.lovable.app)
 
 <a href="https://carolinnemorais.gabriellepereirademo.chatgpt.site">
-  <img src="./assets/legal.svg" width="100%" alt="Carolinne Pereira: site profissional jurídico. Abrir site." />
+  <img src="./legal.svg" width="100%" alt="Carolinne Pereira: site profissional jurídico. Abrir site." />
 </a>
 
 **Site jurídico** — Apresentação de áreas de atuação com foco em navegação clara, adaptação a diferentes telas e contato pelo WhatsApp.
@@ -129,5 +129,5 @@ Estou aberta a conversar sobre **estágios em tecnologia, projetos e aprendizado
 </p>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Aprender. Construir. Evoluir. Gabrielle Morais." />
+  <img src="./footer.svg" width="100%" alt="Aprender. Construir. Evoluir. Gabrielle Morais." />
 </p>
