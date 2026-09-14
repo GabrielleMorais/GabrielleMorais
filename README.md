@@ -101,13 +101,7 @@ Uso IA como apoio para explorar ideias, estudar e desenvolver — com atenção 
   
 </p>
 
-<details>
-<summary><b>GitHub Trophies · ver conquistas da plataforma</b></summary>
-<br />
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielleMorais&amp;theme=tokyonight&amp;column=3&amp;row=2&amp;margin-w=10&amp;margin-h=10&amp;no-frame=true" width="495" alt="Troféus gerados a partir da atividade no GitHub" />
-</p>
-</details>
+
 
 ### Contribution Snake
 
