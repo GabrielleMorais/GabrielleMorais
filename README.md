@@ -53,7 +53,7 @@ Uso IA como apoio para explorar ideias, estudar e desenvolver — com atenção 
 ## Projetos
 
 <a href="https://routeasy.lovable.app">
-  <img src="./routeasy.svg""" width="100%" alt="Routeasy: projeto de planejamento de passeios e organização de roteiros. Abrir aplicativo." />
+  <img src="./routeasy.svg" width="100%" alt="Routeasy: projeto de planejamento de passeios e organização de roteiros. Abrir aplicativo." />
 </a>
 
 **Routeasy** — Exploro planejamento de roteiros, preferências do usuário e sugestões de lugares. Um projeto em evolução para praticar construção de produto, interface e integrações.
@@ -66,7 +66,7 @@ Uso IA como apoio para explorar ideias, estudar e desenvolver — com atenção 
 
 **Site jurídico** — Apresentação de áreas de atuação com foco em navegação clara, adaptação a diferentes telas e contato pelo WhatsApp.
 
-[Abrir projeto ↗](advcarolinnemorais.com.br)
+[Abrir projeto ↗](https://advcarolinnemorais.com.br)
 
 ## Objetivos atuais
 
