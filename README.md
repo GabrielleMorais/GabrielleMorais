@@ -88,17 +88,17 @@ Uso IA como apoio para explorar ideias, estudar e desenvolver — com atenção 
 
 <p align="center">
   <a href="https://github.com/GabrielleMorais?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=GabrielleMorais&amp;show_icons=true&amp;hide_rank=true&amp;bg_color=0b101b&amp;title_color=22d3ee&amp;text_color=b3bdd0&amp;icon_color=a78bfa&amp;border_color=263548&amp;border_radius=14&amp;locale=pt-br" width="495" alt="Estatísticas públicas do GitHub de Gabrielle Morais" />
+    
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielleMorais&amp;layout=compact&amp;langs_count=6&amp;bg_color=0b101b&amp;title_color=22d3ee&amp;text_color=b3bdd0&amp;border_color=263548&amp;border_radius=14&amp;locale=pt-br" width="400" alt="Linguagens presentes nos repositórios públicos" />
+ 
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=GabrielleMorais&amp;theme=tokyonight&amp;background=0B101B&amp;border=263548&amp;ring=22D3EE&amp;fire=A78BFA&amp;currStreakLabel=22D3EE&amp;locale=pt_BR" width="495" alt="Sequência de contribuições de Gabrielle Morais" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielleMorais&amp;bg_color=0b101b&amp;color=b3bdd0&amp;line=22d3ee&amp;point=a78bfa&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Activity" width="100%" alt="Gráfico de atividade recente no GitHub" />
+  
 </p>
 
 <details>
