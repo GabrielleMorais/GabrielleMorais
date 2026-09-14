@@ -20,8 +20,8 @@ Olá! Sou **Gabrielle Morais**, em transição de carreira para tecnologia, com 
 Minha experiência comercial me aproxima das necessidades das pessoas. Agora, estou aprendendo a transformar essas necessidades em soluções digitais, combinando estudo de programação, projetos práticos e uso crítico de IA.
 
 - **Na prática:** estudo Python, resolvo exercícios e construo projetos para a web.
-- **Minha trilha:** Python com Guanabara, cursos e bootcamps da DIO e experiências com Lovable.
-- **Como aprendo:** testo, identifico erros, ajusto e busco entender o que estou construindo.
+- **Minha trilha:** Python , cursos e bootcamps e experiências com Lovable e outras ferramentas.
+- **Como aprendo:** Testo, identifico erros, ajusto e busco entender o que estou construindo.
 - **Próximo passo:** uma oportunidade de estágio em tecnologia para colaborar e aprender todos os dias.
 
 > Cada projeto é uma oportunidade de entender melhor o código e o problema que ele resolve.
@@ -66,7 +66,7 @@ Uso IA como apoio para explorar ideias, estudar e desenvolver — com atenção 
 
 **Site jurídico** — Apresentação de áreas de atuação com foco em navegação clara, adaptação a diferentes telas e contato pelo WhatsApp.
 
-[Abrir projeto ↗](https://carolinnemorais.gabriellepereirademo.chatgpt.site)
+[Abrir projeto ↗](advcarolinnemorais.com.br)
 
 ## Objetivos atuais
 
