@@ -61,7 +61,7 @@ Uso IA como apoio para explorar ideias, estudar e desenvolver — com atenção 
 [Abrir projeto ↗](https://routeasy.lovable.app)
 
 <a href="https://carolinnemorais.gabriellepereirademo.chatgpt.site">
-  <img src="./legal.svg" width="100%" alt="Carolinne Pereira: site profissional jurídico. Abrir site." />
+  <img src="./legal.svg" width="100%" alt="Carolinne Morais: site profissional jurídico. Abrir site." />
 </a>
 
 **Site jurídico** — Apresentação de áreas de atuação com foco em navegação clara, adaptação a diferentes telas e contato pelo WhatsApp.
