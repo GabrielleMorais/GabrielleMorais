@@ -50,13 +50,13 @@ Minha experiência comercial me aproxima das necessidades das pessoas. Agora, es
 
 Uso IA como apoio para explorar ideias, estudar e desenvolver — com atenção à revisão e à compreensão dos resultados.
 
-## Projetos
+## Todos os Projetos
 
 <a href="https://routeasy.lovable.app">
   <img src="./routeasy.svg" width="100%" alt="Routeasy: projeto de planejamento de passeios e organização de roteiros. Abrir aplicativo." />
 </a>
 
-**Routeasy** — Exploro planejamento de roteiros, preferências do usuário e sugestões de lugares. Um projeto em evolução para praticar construção de produto, interface e integrações.
+**Routeasy** — Exploro planejamento de roteiros, preferências do usuário e sugestões de lugares. Um projeto em evolução para praticar construção de produto, interface e integrações.   
 
 [Abrir projeto ↗](https://routeasy.lovable.app)
 
